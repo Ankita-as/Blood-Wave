@@ -1,0 +1,34 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #FFE4E1
+}
+header{
+    position: left;
+    width: 0%;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    background: none;
+    padding: 33px 60%;
+    border-bottom: 1px solid transparent;
+    transition: all .45s ease;
+}
+tr{
+    background: #fff
+}
+.title{
+    background-color: #FFC0CB
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
